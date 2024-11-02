@@ -26,3 +26,13 @@ git commit -m "Latest version's name"
 ```
 git push origin main
 ```
+### Dataset
+https://www.kaggle.com/datasets/shashwatwork/phishing-dataset-for-machine-learning
+
+### Acknowledgement
+Tan, Choon Lin (2018), “Phishing Dataset for Machine Learning: Feature Evaluation”, Mendeley Data, V1, doi: 10.17632/h3cgnj8hft.1
+
+### Team
+Kori
+
+Anna
